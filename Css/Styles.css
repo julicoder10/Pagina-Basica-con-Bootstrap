@@ -1,0 +1,58 @@
+body{
+  background: black;
+}
+
+.navbar{
+  justify-content: space-between;
+}
+.navbar .link:hover{
+  border-bottom: 3px solid white
+}
+.links-1{
+  list-style: none;
+  margin: auto;
+  text-align: center;
+}
+.titulo{
+  margin: auto;
+  font-size: 50px;
+  color: white;
+}
+.link{
+  margin-right: 8px;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  font-weight: lighter;
+}
+.link:hover{
+  color: white;
+}
+.section-1{
+  text-align: center;
+  height: 500px;
+  margin-top: 50px;
+  font-weight: lighter;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer{
+  text-align: center;
+}
+.footer h4{
+  color: white;
+  font-size: 20px;
+}
+.footer a{
+  text-decoration: none;
+}
+.footer-final{
+  color: white;
+  font-weight: lighter;
+}
+.btn{
+  margin: 8px;
+}
