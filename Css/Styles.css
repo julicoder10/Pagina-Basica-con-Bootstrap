@@ -1,7 +1,7 @@
 body{
   background: black;
 }
-
+//NAVBAR
 .navbar{
   justify-content: space-between;
 }
@@ -28,6 +28,7 @@ body{
 .link:hover{
   color: white;
 }
+//SECTION PRINCIPAL
 .section-1{
   text-align: center;
   height: 500px;
@@ -38,7 +39,7 @@ body{
   justify-content: center;
   align-items: center;
 }
-
+//FOOTER
 .footer{
   text-align: center;
 }
